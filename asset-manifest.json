@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactrep1/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/reactrep1/static/js/main.30b653f6.chunk.js",
+    "main.js.map": "/reactrep1/static/js/main.30b653f6.chunk.js.map",
+    "runtime-main.js": "/reactrep1/static/js/runtime-main.9fafabbe.js",
+    "runtime-main.js.map": "/reactrep1/static/js/runtime-main.9fafabbe.js.map",
+    "static/js/2.8bce9c92.chunk.js": "/reactrep1/static/js/2.8bce9c92.chunk.js",
+    "static/js/2.8bce9c92.chunk.js.map": "/reactrep1/static/js/2.8bce9c92.chunk.js.map",
+    "static/js/3.60ad8df4.chunk.js": "/reactrep1/static/js/3.60ad8df4.chunk.js",
+    "static/js/3.60ad8df4.chunk.js.map": "/reactrep1/static/js/3.60ad8df4.chunk.js.map",
+    "index.html": "/reactrep1/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/reactrep1/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8bce9c92.chunk.js.LICENSE.txt": "/reactrep1/static/js/2.8bce9c92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fafabbe.js",
+    "static/js/2.8bce9c92.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.30b653f6.chunk.js"
+  ]
+}
